@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Jupyter Notebook extras
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Power BI temp files
+*.pbix.tmp
+
+# Windows junk
+desktop.ini
+Thumbs.db
