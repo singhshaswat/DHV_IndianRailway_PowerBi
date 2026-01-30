@@ -39,3 +39,6 @@ This project was created as part of a **Data Handling & Visualization (DHV)** co
 ├─ requirements.txt      # Python dependencies
 ├─ .gitignore            # Files/folders ignored by Git
 └─ LICENSE               # Open-source license (MIT)
+
+## Author
+Shaswat Singh
