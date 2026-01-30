@@ -40,5 +40,7 @@ This project was created as part of a **Data Handling & Visualization (DHV)** co
 ├─ .gitignore            # Files/folders ignored by Git
 └─ LICENSE               # Open-source license (MIT)
 
-## Author
-Shaswat Singh
+```
+## 👤 Author
+
+**Shaswat Singh**
